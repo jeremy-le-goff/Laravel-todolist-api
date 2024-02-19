@@ -1,0 +1,6 @@
+PATCH http://127.0.0.1:8000/api/categories/4 HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": ""
+}
